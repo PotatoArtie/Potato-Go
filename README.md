@@ -1,1 +1,1 @@
-# PotatoGo
+# Potato-Go
